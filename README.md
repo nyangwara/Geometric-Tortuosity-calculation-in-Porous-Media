@@ -1,1 +1,3 @@
 # Geometric-Tortuosity-calculation-in-Porous-Media
+The morphological tortuosity of a geodesic path in a medium can be defined as the ratio between its geodesic length and the Euclidean distance between its two extremities. Thus, the minimum tortuosity of all the geodesic paths into a medium in 2D or in 3D can be estimated by image processing methods using mathematical morphology. Considering a medium, the morphological tortuosities of its internal paths are estimated according to one direction, which are perpendicular to both starting and ending opposite extremities of the geodesic paths. The used algorithm estimates the morphological tortuosities from geodesic distance maps, which are obtained from geodesic propagations.
+
